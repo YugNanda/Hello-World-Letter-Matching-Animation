@@ -1,4 +1,3 @@
-# Python Guide + 99 Projects: https://resources.legitpython.com/python-ebook-download
 
 import time
 import string
